@@ -1,0 +1,1 @@
+# lottie-animations-study-app
